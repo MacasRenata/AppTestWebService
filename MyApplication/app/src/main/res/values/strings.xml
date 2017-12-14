@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="create_note_button_text">Cria nota</string>
+    <string name="noteDateLabel">Data:</string>
+    <string name="noteTitleLabel">Título:</string>
+    <string name="noteTextLabel">Texto:</string>
+    <string name="saveButtonText">Salvar</string>
+</resources>
